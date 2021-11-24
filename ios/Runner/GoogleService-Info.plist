@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>254933694329-e2ohegldekt6i582nrt0uj9uj1r6q38p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.254933694329-e2ohegldekt6i582nrt0uj9uj1r6q38p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>254933694329-1qsj6vkfn2oo0ft60jqvpk3reab6urlv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAc1wABumiM02Mamk1ALbWva1uo2XoaO_Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>254933694329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Muaz.Aljarhi.fashionStore</string>
+	<key>PROJECT_ID</key>
+	<string>fashion-store-360fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fashion-store-360fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:254933694329:ios:14aa1731bdfd5f8f54e1a8</string>
+</dict>
+</plist>

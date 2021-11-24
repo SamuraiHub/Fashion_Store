@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "254933694329",
+    "project_id": "fashion-store-360fb",
+    "storage_bucket": "fashion-store-360fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254933694329:android:f923fb3d1c52b81d54e1a8",
+        "android_client_info": {
+          "package_name": "Muaz.Aljarhi.fashion_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254933694329-1qsj6vkfn2oo0ft60jqvpk3reab6urlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Muaz.Aljarhi.fashion_store",
+            "certificate_hash": "9f27f679a548fa34c5de528bdee683a90532def9"
+          }
+        },
+        {
+          "client_id": "254933694329-bkonf6n0olnnl338nute9dskgu6nmfn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzn4ka86kY3cUD2XMAMdGNkU5-zvfnR7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254933694329-bkonf6n0olnnl338nute9dskgu6nmfn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254933694329-e2ohegldekt6i582nrt0uj9uj1r6q38p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Muaz.Aljarhi.fashionStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
