@@ -10,8 +10,10 @@ import 'package:fashion_store/widgetPageViewHeader.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'configure_nonweb.dart' if (dart.library.html) 'configure_web.dart';
 
 Future<void> main() async {
+  configureApp();
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(App());

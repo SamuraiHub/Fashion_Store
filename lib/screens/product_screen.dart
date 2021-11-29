@@ -81,7 +81,8 @@ class _ProductScreenState extends State<ProductScreen> {
                       Navigator.pushReplacementNamed(context, WelcomeScreen.id);
                     },
                     icon: Icon(
-                      Platform.isIOS ? Icons.arrow_back_ios : Icons.arrow_back,
+                      /*Platform.isIOS ? Icons.arrow_back_ios :*/ Icons
+                          .arrow_back,
                       color: Colors.white,
                     ),
                   ),

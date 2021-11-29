@@ -1,4 +1,14 @@
+import 'dart:ui';
+
 import 'package:flutter/material.dart';
+
+class AppScrollBehavior extends MaterialScrollBehavior {
+  @override
+  Set<PointerDeviceKind> get dragDevices => {
+        PointerDeviceKind.touch,
+        PointerDeviceKind.mouse,
+      };
+}
 
 class WidgetPageViewHeader extends StatefulWidget {
   final Function(int index) notifyParent;
@@ -27,6 +37,7 @@ class _WidgetPageViewHeaderState extends State<WidgetPageViewHeader> {
       child: Stack(
         children: <Widget>[
           PageView.builder(
+            scrollBehavior: AppScrollBehavior(),
             itemBuilder: (context, index) {
               return Image.asset(
                 listImageHeader[index],
